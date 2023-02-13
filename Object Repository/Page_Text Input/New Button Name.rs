@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>UserName</name>
+   <name>New Button Name</name>
    <tag></tag>
-   <elementGuidId>9553368d-42fc-4716-87b8-3e693bff5dfa</elementGuidId>
+   <elementGuidId>bcd08edb-1e69-4b96-a7bf-e8481f8bac06</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input</value>
+         <value>//input[@id='newButtonName']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#c406981c-68cd-a643-3595-8cad5c5c21fd</value>
+         <value>#newButtonName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>837b90f0-150e-4115-af47-96699317a5a3</webElementGuid>
+      <webElementGuid>f4c73df2-ac77-46b6-83df-a1f8624f7f50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>914ffdb3-2ebb-4b1d-98ff-2e526b5c3d50</webElementGuid>
+      <webElementGuid>b6ceae97-6fee-441c-8339-af3c9ae10f2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,47 +38,39 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4a40d22f-c10d-41fe-beb5-2e5c5510046e</webElementGuid>
+      <webElementGuid>8fefb3bc-60ca-4b8b-8c13-3ca3cf918ec0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>User Name</value>
-      <webElementGuid>92364fbf-3ff6-4e7c-9baf-22ede1e40fef</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>UserName</value>
-      <webElementGuid>b7ada615-52f2-457c-abc5-6734d9fada6e</webElementGuid>
+      <value>MyButton</value>
+      <webElementGuid>302fdbbe-0c89-4fad-a159-d4d53c2194ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>c406981c-68cd-a643-3595-8cad5c5c21fd</value>
-      <webElementGuid>8402cdf6-a75e-48ce-8ce6-9900b4d5289b</webElementGuid>
+      <value>newButtonName</value>
+      <webElementGuid>9c918efe-0ddf-4d8f-b463-1558fcd073f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;c406981c-68cd-a643-3595-8cad5c5c21fd&quot;)</value>
-      <webElementGuid>d2770199-7798-47d3-a998-f5a384fdb2b3</webElementGuid>
+      <value>id(&quot;newButtonName&quot;)</value>
+      <webElementGuid>d255a577-215c-4ff6-bb61-dc6b80fc2781</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='c406981c-68cd-a643-3595-8cad5c5c21fd']</value>
-      <webElementGuid>5ce7a05f-d128-4ea2-a3d1-45bd7248d61c</webElementGuid>
+      <value>//input[@id='newButtonName']</value>
+      <webElementGuid>2787f2ae-862a-4464-817c-7fe760d00882</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,14 +78,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>953bbdd0-d464-455a-b1da-30bc2271de94</webElementGuid>
+      <webElementGuid>b89ebaa1-5ad3-48bd-8915-3f3f8ff94663</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'User Name' and @name = 'UserName' and @id = 'c406981c-68cd-a643-3595-8cad5c5c21fd']</value>
-      <webElementGuid>7e5078ce-cc62-4a2b-a996-7faab0a80423</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'MyButton' and @id = 'newButtonName']</value>
+      <webElementGuid>467dc7bd-c700-44fa-af3f-211307bb6e12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

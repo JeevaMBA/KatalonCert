@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Visibility Hidden</name>
+   <tag></tag>
+   <elementGuidId>dcc434de-022d-4fee-acd2-68bff8db7b7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='invisibleButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#invisibleButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d3f1b247-ff18-484b-a213-c1f1061c8fff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info</value>
+      <webElementGuid>ab297450-528c-4fa4-ba3f-387c4c696a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1aafeaa4-adf0-4d46-af6e-f8ae95124b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>invisibleButton</value>
+      <webElementGuid>dbf5f9b9-81d0-4a4b-bc6b-52dddf300b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visibility Hidden</value>
+      <webElementGuid>365335ea-03f3-4c83-8504-dc99de5189b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;invisibleButton&quot;)</value>
+      <webElementGuid>9482a407-3b8c-46d3-866f-1c493d6d8ad8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='invisibleButton']</value>
+      <webElementGuid>00f62f67-3abc-49fc-a52a-81fdd5f8c310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opacity 0'])[1]/following::button[1]</value>
+      <webElementGuid>d35d1eee-dfa3-450f-aa83-7218af3c4b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overlapped'])[1]/following::button[2]</value>
+      <webElementGuid>e656b2a4-eb0f-47bc-b91b-1bf8d3776a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display None'])[1]/preceding::button[1]</value>
+      <webElementGuid>a85b03c5-77c1-4c31-9fcd-a7984d1b7272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offscreen'])[1]/preceding::button[2]</value>
+      <webElementGuid>484c4a7d-ce63-44b2-b612-91918efd68a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Visibility Hidden']/parent::*</value>
+      <webElementGuid>d5794884-ccda-4417-801f-72689efb9a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/button</value>
+      <webElementGuid>f1cc6388-5a5a-4bed-a6f0-122e6776b917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'invisibleButton' and (text() = 'Visibility Hidden' or . = 'Visibility Hidden')]</value>
+      <webElementGuid>8a0ac139-35c0-472f-b89e-ae644acb697b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

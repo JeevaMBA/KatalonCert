@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input Value</name>
+   <tag></tag>
+   <elementGuidId>e0ebeee5-8c15-4987-9ab4-709874361ab6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='updatingButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#updatingButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67805f3a-520c-479d-a991-cc709d35f36c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>766ec78c-87de-4fbd-8eb6-1c04b39fea85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>31e2f82f-755b-4c14-af7b-a49f3b5a6bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>updatingButton</value>
+      <webElementGuid>eb90e4d3-3d54-4a45-9885-72d7a8460d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Button That Should Change it's Name Based on Input Value</value>
+      <webElementGuid>a80dca5b-b314-4c8d-8a50-5b2d290df36f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updatingButton&quot;)</value>
+      <webElementGuid>26f238a0-2045-4402-aaea-72c28116d3bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='updatingButton']</value>
+      <webElementGuid>d5a0a096-b76e-472a-929b-85e70dababcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set New Button Name'])[1]/following::button[1]</value>
+      <webElementGuid>e577d9f7-e44d-4d2d-9387-d4b342b38a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playground'])[1]/following::button[1]</value>
+      <webElementGuid>4ebbfb92-7148-43cf-a8e1-50ffd70b4de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fork the website on GitHub'])[1]/preceding::button[1]</value>
+      <webElementGuid>ba5eb1be-6615-4f73-9c5d-d45e73881a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>abe3da71-f4d8-41e1-877d-92a4c6c3ec42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'updatingButton' and (text() = concat(&quot;Button That Should Change it&quot; , &quot;'&quot; , &quot;s Name Based on Input Value&quot;) or . = concat(&quot;Button That Should Change it&quot; , &quot;'&quot; , &quot;s Name Based on Input Value&quot;))]</value>
+      <webElementGuid>d2424c15-9b49-4a76-b5db-915e081bd887</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
