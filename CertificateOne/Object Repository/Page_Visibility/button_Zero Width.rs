@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Zero Width</name>
+   <tag></tag>
+   <elementGuidId>1f7da13a-8766-4628-842c-3af07cf3db5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='zeroWidthButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#zeroWidthButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>12515309-4ca1-4c40-b557-68e8c6e0ffac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning</value>
+      <webElementGuid>fe2c3912-1621-4e46-8be8-7e5e25ba6228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>909e4df9-59a8-4060-96e9-caa2a05f1e09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zeroWidthButton</value>
+      <webElementGuid>869972a5-1bda-4162-a5df-a7da4be22bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zero Width</value>
+      <webElementGuid>2cd1fc8e-8630-4972-bc61-8b64fb4adad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeroWidthButton&quot;)</value>
+      <webElementGuid>8da7f286-5293-41ef-8f01-d1aae4c3ce19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='zeroWidthButton']</value>
+      <webElementGuid>6258b18c-6cef-4a70-90b0-8613bdfa89ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Removed'])[1]/following::button[1]</value>
+      <webElementGuid>eb33f3b9-e923-4546-a60d-db1add6ca5f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide'])[1]/following::button[2]</value>
+      <webElementGuid>506185ed-e945-406c-a091-31f04955fc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overlapped'])[1]/preceding::button[1]</value>
+      <webElementGuid>c9b63b23-33eb-4a1b-be2a-20803f59ae79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opacity 0'])[1]/preceding::button[2]</value>
+      <webElementGuid>554cf191-5ae6-4df9-b2b2-b18fe3faf479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zero Width']/parent::*</value>
+      <webElementGuid>c9184c34-886c-4782-a590-2c6713005356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/button</value>
+      <webElementGuid>8d858d27-5eb9-4517-8235-6fc35f7785a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'zeroWidthButton' and (text() = 'Zero Width' or . = 'Zero Width')]</value>
+      <webElementGuid>6b357aeb-08ab-46e5-ae13-1eec1b17b039</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
