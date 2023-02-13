@@ -6,12 +6,12 @@
    <elementGuidId>bade3356-5f57-4e34-afaa-95d1166f51b1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#combo_facility</value>
+         <key>XPATH</key>
+         <value>//select[@id='combo_facility']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//select[(text() = 'Hongkong CURA Healthcare Center')]</value>
+         <key>CSS</key>
+         <value>#combo_facility</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>id(&quot;tree-node&quot;)/ol[1]/li[@class=&quot;rct-node rct-node-parent rct-node-expanded&quot;]/ol[1]/li[2]//..[@class=&quot;rct-checkbox&quot;]</value>
+         <value>//ol[1]/li[2]//..[@class=&quot;rct-checkbox&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -18,7 +18,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>DIV</value>
-      <webElementGuid>a94ce3dc-1f00-4cff-9e41-67c11ff035cb</webElementGuid>
+      <webElementGuid>f371fac5-c958-4b35-b1af-52cdef33733b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>xpath1676185581434</value>
-      <webElementGuid>c0cd39f7-911a-4e63-9422-5a5f8e1b36d0</webElementGuid>
+      <webElementGuid>7c5f1393-e9f9-4954-92cc-b2a6961ddfe8</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
